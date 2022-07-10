@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zwoj
+  - Weapon
+  - 1dmg
+  - granica
+  - schody
+  - skrzyneczka
+  - castle
+  - serce
+  - coin
+  - sklep
+  - enemy
+  - Kolce
+  - Throwable
+  - boss
+  - Platforma
+  - sss
+  - pisior
+  - boss_main
+  - ptak
+  - Geralt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - ziemialol
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tlotogorszexd
+    uniqueID: 3036551287
+    locked: 0
+  - name: tlo
+    uniqueID: 4045161725
+    locked: 0
+  - name: kolce
+    uniqueID: 372170279
+    locked: 0
+  - name: 1
+    uniqueID: 807807247
+    locked: 0
+  - name: 1plan
+    uniqueID: 126488979
+    locked: 0
+  - name: nad ludziem
+    uniqueID: 3299462705
+    locked: 0
+  - name: przedxd
+    uniqueID: 874069569
+    locked: 0
+  - name: xd
+    uniqueID: 2511962719
+    locked: 0

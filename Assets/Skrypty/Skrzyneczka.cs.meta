@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ad2c0e64c1feba4cb8dd910790bc0d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rozpadanie: {fileID: 5315914904359535649, guid: 3b13f5ab985c5e74d8a987b2ca0533ef,
+      type: 3}
+  - drop: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
